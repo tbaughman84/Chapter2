@@ -1,0 +1,34 @@
+ <DOCTYPE “html”>
+<html lang=“en”>
+   <head>
+     <title><h1>Baughmans's Computer Services Courses</h1></title>
+     <meta charset=“utf-8”>
+   </head>
+        <body>
+          
+
+          <header>
+              <dl>
+               <dt><strong>Internet Communications</strong></dt>
+                     <dd>The objective of this course is to develop an understanding of the internet as a medium of information exchange and to develop skills in the designing simple web papers using HTML tags for the page layouts, hypertext links, site navigation, and simple multimedia special effects.  Pages will be constructed using text editors.</dd>
+               <dt><strong>Event Driven Programming</strong></dt>
+                     <dd>This course introduces the student to the development of the professional-looking, special purpose Windows applications using the graphical user interface of Windows.</dd>
+               <dt><strong>Introduction to Java Programming</strong></dt>
+                      <dd>This course is an introduction to Java programming.  Topics will cover Java syntax and classes for use in the development of Java applications and applets.</dd>
+               <dt><strong>Internet Programming</strong></dt>
+                      <dd>This course covers designing Internet pages and applications for personal/business use, writing the required program code in languages such as HTML, JAVA and VRML, testing and debugging programs, uploading and maintaining Internet pages, and applications.</dd>
+               <dt><strong>UNIX Operating System</strong></dt>
+                      <dd>This course is a study of the basic UNIX commands including the vi editor, file structures, and shell programming.</dd>
+               <dt><strong>Computer Systems Management</strong></dt>
+                      <dd>Students learn to boot up, install, configure and trouble shoot Server 2012.  Instruction includes how to manage system policies; file systems, how to configure protocols; networking services; remote accesss; implementing network clients; file synchronization and directory replication.</dd>          
+                 </dl>      
+             </header>
+        
+
+
+          
+      
+    <footer><small><i>Copyright &copy; 2018 Baughman's Computer Services<br>
+                      timothyjbaughman@student.midlandstech.edu            
+        </body>
+</html>
